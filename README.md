@@ -1,24 +1,36 @@
-# Hi! I'm Uğur 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/main/A_professional_banner_banner_image_features_Uğur_T.png" alt="Uğur Tercan Banner" width="100%" />
+</p>
 
-I’m an **Industrial Engineer** and **ERP Manager** passionate about **Data Analytics**, **Business Intelligence**, and **Digital Transformation**.  
-My focus is on integrating ERP systems with analytics tools to drive data-informed decisions and operational excellence.  
-I write, build, and analyze systems that connect **process**, **people**, and **technology** to shape the future of manufacturing.
-
----
-
-## 📬 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugurtercan)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@uurtrcn)
-[![Email](https://img.shields.io/badge/Email-ugur_ut%40yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ugur_ut@yahoo.com)
+<h1 align="center">👋 Hi, I'm Uğur Tercan</h1>
+<p align="center">
+  <b>ERP Manager | Industrial Engineer | Data Analytics | BI | Python | Lean Manufacturing | Digital Transformation</b>
+</p>
 
 ---
 
-## 🧠 My Skills and Tools
+### 🧭 About Me
+Endüstri Mühendisiyim. ERP sistemleri, veri analitiği ve dijital dönüşümün kesişiminde çalışıyorum.  
+Veri odaklı karar destek sistemleri, ERP–MES entegrasyonları ve süreç optimizasyonu üzerine odaklanıyorum.  
 
-**Data Analysis & Modeling:** SQL · Python · Power BI · Pandas · Excel  
+🔹 <b>Odak Alanlarım:</b> ERP · Business Intelligence · SQL · Python · Yalın Üretim · Dijital Dönüşüm
+
+---
+
+### 📬 How to Reach Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ugurtercan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@uurtrcn"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:ugur_ut@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚙️ My Skills & Tools
+**Data & BI:** SQL · Python · Power BI · Pandas · Excel  
 **ERP & Integration:** Oracle ERP · MES Integration · PL/SQL · API/REST  
-**Automation & Process:** RPA (UiPath) · Lean Manufacturing · OEE · KPI Dashboards  
+**Automation & Process:** RPA (UiPath) · OEE · KPI Dashboards · Lean Manufacturing  
 **Digital Transformation:** Data-driven Decision Making · Industry 4.0  
 
 <p align="center">
@@ -27,34 +39,13 @@ I write, build, and analyze systems that connect **process**, **people**, and **
   <img src="https://img.icons8.com/ios-filled/64/sql.png" alt="SQL" />
   <img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle ERP" />
   <img src="https://img.icons8.com/color/64/automation.png" alt="Automation" />
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-data-analytics-big-data-flaticons-flat-flat-icons.png" alt="Data Analytics" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Uğur’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugurtercan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurtercan&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-- **Play_Recorder** – Windows automation using Python.  
-- **Data-Analysis-Starbucks** – Exploratory data analysis with Python and Power BI.  
-- **CSV-to-EXCEL** – Automated data transformation scripts.  
-- **API Integration** – Real-time data extraction from OpenWeatherMap API.  
-
-*(More projects coming soon!)*
-
----
-
-## 🧭 Current Focus
-
-- ERP ↔ MES integration and real-time manufacturing dashboards.  
-- Data pipeline automation and cost-efficiency analytics.
-
----
-
-> “Digital Transformation isn’t about technology — it’s about mindset.”  
-> *– Uğur Tercan*
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ugurtercan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurtercan&layout=compact&theme=radical" alt="Top Langs" />
+</p>
