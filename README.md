@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/ugurtercan/ugurtercan/blob/main/A_banner_image_in_digital_graphic_design_features_.png" alt="ERP BI Python Digital Transformation Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/main/A_banner_image_in_digital_graphic_design_features_.png" alt="ERP BI Python Digital Transformation Banner" width="100%" />
 </p>
 
 # Hi! I'm Uğur 👋
