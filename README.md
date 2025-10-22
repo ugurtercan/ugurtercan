@@ -52,6 +52,13 @@ My focus is on developing data-driven decision support systems, integrating ERPâ
 
 </p>
 
+---
+
+### ğŸ My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 ---
 
