@@ -38,8 +38,8 @@ My focus is on developing data-driven decision support systems, integrating ERPâ
 
   <!-- Programming & Data Analysis -->
   <img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/64/pandas.png" alt="Pandas" />
-  <img src="https://img.icons8.com/fluency/64/numpy.png" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" width="64" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" width="64" alt="NumPy" />
 
   <!-- Reporting & Analytics -->
   <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" />
@@ -51,6 +51,7 @@ My focus is on developing data-driven decision support systems, integrating ERPâ
   <img src="https://img.icons8.com/color/64/microsoft-office-2019.png" alt="Microsoft Office" />
 
 </p>
+
 
 ---
 
