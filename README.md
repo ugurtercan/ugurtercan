@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/main/1.png" alt="Uğur Tercan Banner" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Uğur Tercan</h1>
 <p align="center">
