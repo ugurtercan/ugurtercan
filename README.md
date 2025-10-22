@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Uğur Tercan</h1>
 <p align="center">
-  <b>ERP Manager | Industrial Engineer | Data Analytics | BI | Python | Lean Manufacturing | Digital Transformation</b>
+  <b>ERP Manager | Industrial Engineer | Data Analytics | BI | Python | Lean Manufacturing | Digital Transformation | PMP Certified | SQL </b>
 </p>
 
 ---
