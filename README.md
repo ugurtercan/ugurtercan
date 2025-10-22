@@ -7,10 +7,12 @@
 ---
 
 ### 🧭 About Me
-I’m an Industrial Engineer working at the intersection of ERP systems, data analytics, and digital transformation.  
-My focus is on developing data-driven decision support systems, integrating ERP–MES architectures, and optimizing manufacturing processes.  
+Industrial Engineer with 7+ years of experience leading ERP implementations, production planning, and quality systems across manufacturing and medical industries. Demonstrated success in driving digital transformation by integrating data analytics, lean principles, and process optimization.
 
-🔹 <b>Core Expertise:</b> ERP · Business Intelligence · SQL · Python · Lean Manufacturing · Digital Transformation
+Currently advancing expertise in Data Analytics (SQL, BI, Python, Machine Learning) to connect ERP operations with data-driven decision-making. Passionate about converting complex data into actionable insights that improve efficiency, profitability, and operational excellence.
+
+Certified PMP and Lean Manufacturing professional, combining technical depth with leadership to deliver measurable business outcomes.
+🔹 <b>Core Expertise:</b> ERP · Business Intelligence · SQL · Python · Lean Manufacturing · Digital Transformation · Lean Manufacturing
 
 ---
 
