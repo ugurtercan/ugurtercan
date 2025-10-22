@@ -30,24 +30,24 @@ My focus is on developing data-driven decision support systems, integrating ERPâ
 **Digital Transformation:** Data-driven Decision Making Â· Industry 4.0  
 
 <p align="center">
-  <!-- Data & Analytics -->
-  <img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" />
+
+  <!-- Database & Development -->
   <img src="https://img.icons8.com/ios-filled/64/sql.png" alt="SQL" />
-  <img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle ERP" />
+  <img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle" />
+  <img src="https://img.icons8.com/external-outline-juicy-fish/64/external-database-coding-and-development-outline-outline-juicy-fish.png" alt="DB Tools" />
+  <img src="https://img.icons8.com/color/64/code--v1.png" alt="Toad / DBBeaver" />
 
-  <!-- Automation & Manufacturing -->
-  <img src="https://img.icons8.com/color/64/automation.png" alt="Automation" />
-  <img src="https://img.icons8.com/fluency/64/factory-breakdown.png" alt="Manufacturing" />
-  <img src="https://img.icons8.com/color/64/conveyor-belt.png" alt="Production Line" />
-  <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/64/external-factory-industry-smashingstocks-flat-smashing-stocks.png" alt="Factory" />
+  <!-- Reporting & Analytics -->
+  <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/color/64/bar-chart.png" alt="KPI Dashboard" />
+  <img src="https://img.icons8.com/fluency/64/presentation.png" alt="iReport" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-oee-industry-flaticons-lineal-color-flat-icons.png" alt="OEE" />
 
-  <!-- Digital Transformation -->
-  <img src="https://img.icons8.com/color/64/artificial-intelligence.png" alt="AI" />
-  <img src="https://img.icons8.com/color/64/iot.png" alt="IoT" />
-  <img src="https://img.icons8.com/color/64/data-configuration.png" alt="Digital Transformation" />
+  <!-- Office & Productivity -->
+  <img src="https://img.icons8.com/color/64/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/64/microsoft-office-2019.png" alt="Microsoft Office" />
+
 </p>
-
 
 ---
 
