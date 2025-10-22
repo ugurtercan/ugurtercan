@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/main/A_banner_image_in_digital_graphic_design_features_.png" alt="ERP BI Python Digital Transformation Banner" width="100%" />
-</p>
-
 # Hi! I'm Uğur 👋
 
 I’m an **Industrial Engineer** and **ERP Manager** passionate about **Data Analytics**, **Business Intelligence**, and **Digital Transformation**.  
@@ -32,7 +27,6 @@ I write, build, and analyze systems that connect **process**, **people**, and **
   <img src="https://img.icons8.com/ios-filled/64/sql.png" alt="SQL" />
   <img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle ERP" />
   <img src="https://img.icons8.com/color/64/automation.png" alt="Automation" />
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-data-analytics-big-data-flaticons-flat-flat-icons.png" alt="Data Analytics" />
 </p>
 
 ---
