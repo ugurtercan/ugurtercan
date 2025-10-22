@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/main/A_professional_banner_banner_image_features_Uğur_T.png" alt="Uğur Tercan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/main/1.png" alt="Uğur Tercan Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Uğur Tercan</h1>
@@ -11,10 +11,10 @@
 ---
 
 ### 🧭 About Me
-Endüstri Mühendisiyim. ERP sistemleri, veri analitiği ve dijital dönüşümün kesişiminde çalışıyorum.  
-Veri odaklı karar destek sistemleri, ERP–MES entegrasyonları ve süreç optimizasyonu üzerine odaklanıyorum.  
+I’m an Industrial Engineer working at the intersection of ERP systems, data analytics, and digital transformation.  
+My focus is on developing data-driven decision support systems, integrating ERP–MES architectures, and optimizing manufacturing processes.  
 
-🔹 <b>Odak Alanlarım:</b> ERP · Business Intelligence · SQL · Python · Yalın Üretim · Dijital Dönüşüm
+🔹 <b>Core Expertise:</b> ERP · Business Intelligence · SQL · Python · Lean Manufacturing · Digital Transformation
 
 ---
 
