@@ -34,14 +34,17 @@ My focus is on developing data-driven decision support systems, integrating ERPâ
   <!-- Database & Development -->
   <img src="https://img.icons8.com/ios-filled/64/sql.png" alt="SQL" />
   <img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle" />
-  <img src="https://img.icons8.com/external-outline-juicy-fish/64/external-database-coding-and-development-outline-outline-juicy-fish.png" alt="DB Tools" />
   <img src="https://img.icons8.com/color/64/code--v1.png" alt="Toad / DBBeaver" />
+
+  <!-- Programming & Data Analysis -->
+  <img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/64/pandas.png" alt="Pandas" />
+  <img src="https://img.icons8.com/fluency/64/numpy.png" alt="NumPy" />
 
   <!-- Reporting & Analytics -->
   <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" />
   <img src="https://img.icons8.com/color/64/bar-chart.png" alt="KPI Dashboard" />
   <img src="https://img.icons8.com/fluency/64/presentation.png" alt="iReport" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-oee-industry-flaticons-lineal-color-flat-icons.png" alt="OEE" />
 
   <!-- Office & Productivity -->
   <img src="https://img.icons8.com/color/64/microsoft-excel-2019--v1.png" alt="Excel" />
