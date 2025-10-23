@@ -73,5 +73,3 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
   <img src="https://github-readme-stats.vercel.app/api?username=ugurtercan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurtercan&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
-<img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/main/assets/footer_wave.svg" width="100%" />
