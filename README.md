@@ -15,6 +15,10 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
 🔹 <b>Core Expertise:</b> ERP · Business Intelligence · SQL · Python · Lean Manufacturing · Digital Transformation · Lean Manufacturing
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+</p>
+---
 
 ### 📬 How to Reach Me
 <p align="center">
