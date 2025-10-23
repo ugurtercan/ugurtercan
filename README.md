@@ -21,10 +21,11 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
   <a href="https://medium.com/@uurtrcn"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:ugur_ut@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
-</p>
----
+</p> 
 
 ### ⚙️ My Skills & Tools
 **Data & BI:** SQL · Python · Power BI · Pandas  · Numpy · Scipy · Prophet · Excel  
