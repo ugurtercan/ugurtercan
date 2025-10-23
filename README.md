@@ -63,6 +63,10 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
   <img src="https://raw.githubusercontent.com/ugurtercan/ugurtercan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ugurtercan&theme=radical&hide_border=true" />
+</p>
+
 
 ### 📊 GitHub Stats
 <p align="center">
