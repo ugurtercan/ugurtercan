@@ -28,7 +28,7 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
 </p> 
 
 ### ⚙️ My Skills & Tools
-**Data & BI:** SQL · Python · Power BI · Pandas  · Numpy · Scipy · Prophet · Excel  
+**Data & BI:** SQL · Python · Power BI · Pandas  · Numpy · Scipy · Prophet · Excel  ·Ireport
 **ERP & Integration:** ERP · PL/SQL 
 **Automation & Process:** · OEE · KPI Dashboards · Lean Manufacturing  
 **Digital Transformation:** Data-driven Decision Making · Industry 4.0  
