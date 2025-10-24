@@ -51,13 +51,14 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
   <!-- Reporting & Analytics -->
   <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" />
   <img src="https://img.icons8.com/color/64/bar-chart.png" alt="KPI Dashboard" />
-  <img src="https://img.icons8.com/fluency/64/presentation.png" alt="iReport" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JasperReports_logo.png" width="64" alt="iReport / JasperReports" />
 
   <!-- Office & Productivity -->
   <img src="https://img.icons8.com/color/64/microsoft-excel-2019--v1.png" alt="Excel" />
   <img src="https://img.icons8.com/color/64/microsoft-office-2019.png" alt="Microsoft Office" />
 
 </p>
+
 
 ### 🐍 My Contribution Snake
 <p align="center">
