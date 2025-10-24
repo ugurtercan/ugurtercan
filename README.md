@@ -45,7 +45,6 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" width="64" alt="NumPy" />
   <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" />
   <img src="https://img.icons8.com/color/64/bar-chart.png" alt="KPI Dashboard" />
-  <img src="https://i.imgur.com/xGmU03x.png" width="64" alt="iReport / JasperReports" />
   <img src="https://img.icons8.com/color/64/microsoft-excel-2019--v1.png" alt="Excel" />
   <img src="https://img.icons8.com/color/64/microsoft-office-2019.png" alt="Microsoft Office" />
 
