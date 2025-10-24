@@ -40,7 +40,6 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
 
   <img src="https://img.icons8.com/ios-filled/64/sql.png" alt="SQL" />
   <img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle" />
-  <img src="https://img.icons8.com/color/64/code--v1.png" alt="Toad / DBBeaver" />
   <img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" width="64" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" width="64" alt="NumPy" />
