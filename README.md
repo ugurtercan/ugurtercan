@@ -38,22 +38,15 @@ Certified PMP and Lean Manufacturing professional, combining technical depth wit
 
 <p align="center">
 
-  <!-- Database & Development -->
   <img src="https://img.icons8.com/ios-filled/64/sql.png" alt="SQL" />
   <img src="https://img.icons8.com/color/64/oracle-logo.png" alt="Oracle" />
   <img src="https://img.icons8.com/color/64/code--v1.png" alt="Toad / DBBeaver" />
-
-  <!-- Programming & Data Analysis -->
   <img src="https://img.icons8.com/color/64/python--v1.png" alt="Python" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" width="64" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" width="64" alt="NumPy" />
-
-  <!-- Reporting & Analytics -->
   <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" />
   <img src="https://img.icons8.com/color/64/bar-chart.png" alt="KPI Dashboard" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/JasperReports_logo.png" width="64" alt="iReport / JasperReports" />
-
-  <!-- Office & Productivity -->
+  <img src="https://i.imgur.com/xGmU03x.png" width="64" alt="iReport / JasperReports" />
   <img src="https://img.icons8.com/color/64/microsoft-excel-2019--v1.png" alt="Excel" />
   <img src="https://img.icons8.com/color/64/microsoft-office-2019.png" alt="Microsoft Office" />
 
