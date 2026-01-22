@@ -6,7 +6,7 @@
 ---
 
 ### 🧭 About Me
-Industrial Engineer with 7+ years of experience leading ERP implementations, production planning, and quality systems across manufacturing and medical industries. Demonstrated success in driving digital transformation by integrating data analytics, lean principles, and process optimization.
+Industrial Engineer with 9+ years of experience leading ERP implementations, production planning, and quality systems across manufacturing and medical industries. Demonstrated success in driving digital transformation by integrating data analytics, lean principles, and process optimization.
 
 Currently advancing expertise in Data Analytics (SQL, BI, Python, Machine Learning) to connect ERP operations with data-driven decision-making. Passionate about converting complex data into actionable insights that improve efficiency, profitability, and operational excellence.
 
